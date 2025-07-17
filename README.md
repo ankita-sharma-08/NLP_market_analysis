@@ -18,8 +18,8 @@ This project provides a Python-based tool for analyzing stock market-related sta
 
 1.  **Clone the repository (if applicable):**
     ```bash
-    git clone <repository_url>
-    cd <repository_name>
+    git clone https://github.com/ankita-sharma-08/NLP_market_analysis.git
+    cd NLP_market_analysis
     ```
 
 2.  **Install required Python packages:**
